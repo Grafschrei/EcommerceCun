@@ -1,4 +1,2 @@
 # EcommerceCun
 # HOLA
-Bienvenidos
-HOLA
